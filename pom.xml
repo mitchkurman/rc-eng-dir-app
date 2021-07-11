@@ -5,7 +5,8 @@
     <groupId>com.mkurman.promo</groupId>
     <artifactId>rc-eng-dir-app</artifactId>
     <version>1.0.0</version>
-
+    <name>rc-eng-dir-app</name>
+    <packaging>pom</packaging>
 
 
     <dependencyManagement>
